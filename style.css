@@ -107,7 +107,7 @@ font-family: 'Times New Roman', Times, serif;
 
 #home::before {
     content: "";
-    background: url('https://github.com/SanketGadhe/Home-Food/blob/main/food.jpg') no-repeat center center/cover content-box;
+    background: url('food.jpg') no-repeat center center/cover content-box;
     position: absolute;
     height: 660px;
     top: 0;
@@ -206,7 +206,7 @@ hr {
     /* height: 100%;
     width: 100%; */
     background-color: rgb(204, 219, 206);
-    background: url('https://github.com/SanketGadhe/Home-Food/blob/main/bg.jpg');
+    background: url('bg.jpg');
     opacity: 0.3;
     z-index: 1;
 }
