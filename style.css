@@ -1,6 +1,7 @@
 * {
     margin: 0px;
     padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
 }
 html{
     scroll-behavior: smooth;
@@ -70,13 +71,14 @@ font-family: 'Times New Roman', Times, serif;
 
 #navbar ul li {
     list-style: none;
-        font-family: 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 1.3rem;
     padding: 10px;
 }
 
 #navbar ul li a {
     text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
     color: white;
     border-radius: 5px;
     padding: 0px 10px;
